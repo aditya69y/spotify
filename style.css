@@ -332,7 +332,7 @@ p {
 @media (min-width: 340px) and (max-width: 767px) {
   .left {
     position: absolute;
-    left: -263px;
+    left: -500px;
     transition: all 0.3s;
     z-index: 1;
     width: 98vw;
